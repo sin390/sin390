@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sin390.
-- 👀 I’m interested in TUI now.
-- 📫 My mail address is (sin390 at foxmail dot com).
+Hello, I am sin390. 
+To contact me, please mail to this address,
+<sin390atfoxmaildotcom>
 
 <!---
 sin390/sin390 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
